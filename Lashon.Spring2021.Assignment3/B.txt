@@ -1,0 +1,4 @@
+Your home will include the following:Living Room, Kitchen, Bathroom, Bathroom, Big Bedroom, Big Bedroom, Big Bedroom, Big Bedroom, Car Garage, Kitchen, Kitchen, Living Room, Living Room, Living Room, Living Room, Master Bedroom, Master Bedroom, Master Bedroom, Master Bedroom, Study Room, Walk-in Closet, Walk-in Closet
+Your home will cost $255637
+Total area: 9440
+This will be written to the text file
